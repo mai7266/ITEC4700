@@ -9,5 +9,5 @@ Project Overview
 Variables
 - Target(Y): G3 - Final grade(continuos variable)
 - Predictor (X1, X2): 
-  - studytime - Weekly study time (1–4, categorical)
-  - absences -- Number of school absences (continuous, 0–93)
+  - studytime - Weekly study time (1–4, categorical), reflects the student's academic effort and preparation
+  - absences - Number of school absences (continuous, 0–93), reflects disengagement and missed learning
