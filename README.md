@@ -16,3 +16,6 @@
 ## Why This is a Good Model
 This regression model predicts a student's final grade (G3) using study time and absences.
 Higher study time is associated with better grades, while absences may reduce them. The model demonstrates how educational data, like study time and absences, can be used to understand and forecast student performance.
+
+Assignment5.ipynb is my Colab code.
+student-mat.csv is the dataset I used to make the regression model.
