@@ -8,7 +8,7 @@
 - The dataset comes from the UCI Machine Learning Repository.
 
 ## Variables
-- Target(Y): G3 - Final grade(continuos variable)
+- Target(Y): G3 - Final grade(continous variable)
 - Predictor (X1, X2): 
   - studytime - Weekly study time (1–4, categorical), reflects the student's academic effort and preparation
   - absences - Number of school absences (continuous, 0–93), reflects disengagement and missed learning
